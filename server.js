@@ -1,4 +1,5 @@
-const app = require('./lib/app');
+//const app = require('./lib/app');
+const app = require('./lib/random-jpg');
 const pool = require('./lib/utils/pool');
 
 const PORT = process.env.PORT || 7890;
